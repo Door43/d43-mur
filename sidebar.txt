@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mur:home|Door43 (mur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mur|d43-mur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mur/archive/master.zip|d43-mur.zip]]
+
+**Recent Changes**
+{{changes>ns = mur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mur|Ethnologue data]]
+
